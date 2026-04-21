@@ -1,2 +1,2 @@
-# PRAKTIKUM-C
-W1-W2
+"# w1-w2" 
+"# w1-w2" 
