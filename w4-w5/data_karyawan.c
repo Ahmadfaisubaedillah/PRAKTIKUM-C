@@ -38,7 +38,7 @@ int main() {
                (kar + i)->gaji);
     }
 
-    // bebaskan memori
+  
     free(kar);
 
     return 0;
